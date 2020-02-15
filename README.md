@@ -42,6 +42,7 @@ Este sería el resultado
 
 
 
+![u] (imagen/indice.jpg "indice")
 
 
 
@@ -129,13 +130,8 @@ Además de la sintaxis para listas se agrega [ ],[x] ó [X]
 
 * [] Justificación
 
-~~~~
+~~~
 
-* [x] introducción
-
-* [ ] marco teórico
-
-* [ ] Justificación
 
 
 
@@ -170,12 +166,19 @@ símbolo|forma
 ### enlaces
 entre corchetes agregamaos el nombre del enlace **[buscar]** y a continuacion entre parentesis la url**(http://www.google.com)**
 mediante el siguiente codigo:
-~~~
-[buscar](http://www.google.com)
-~~~
-###imagenes
-~~~
-![uno](imagen/indice.jpg "ejemplo")
+
 ~~~
 
-![uno] (imagen/indice.jpg)
+[buscar](http://www.google.com)
+
+~~~
+
+###imagenes
+
+~~~
+
+![uno](imagen/indice.jpg "ejemplo")
+
+~~~
+
+

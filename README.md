@@ -92,11 +92,11 @@ Nombre|Apellido|nota|
 
 Juan|Pérez|4.3
 
-Luis||3.5
+Luis|3.5
 
-Ana||4.0
+Ana|4.0
 
-Pedro||2.2
+Pedro|2.2
 
 ~~~
 
@@ -156,11 +156,15 @@ Además de la sintaxis para listas se agrega [ ],[x] ó [X]
 Sepueden usar varios símbolos.
 
 ##tabla
+
+~~~
+
 titulo1|titulo2
 -----|-----
 valora|calorb
 valorc|valord
 
+~~~
 
 símbolo|forma
 ### enlaces

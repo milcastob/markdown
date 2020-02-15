@@ -173,3 +173,9 @@ mediante el siguiente codigo:
 ~~~
 [buscar](http://www.google.com)
 ~~~
+###imagenes
+~~~
+![uno](imagenes.enlace.jpg"ejemplo")
+~~~
+
+![uno](imagenes/indice.jpg "ejemplo")

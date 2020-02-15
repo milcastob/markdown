@@ -175,7 +175,7 @@ mediante el siguiente codigo:
 ~~~
 ###imagenes
 ~~~
-![uno](imagenen/indice.jpg "ejemplo")
+![uno](imagen/indice.jpg "ejemplo")
 ~~~
 
-![uno](imagene/indice.jpg "ejemplo")
+![uno](imagen/indice.jpg "ejemplo")

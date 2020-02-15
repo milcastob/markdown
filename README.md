@@ -178,4 +178,4 @@ mediante el siguiente codigo:
 ![uno](imagen/indice.jpg "ejemplo")
 ~~~
 
-![uno](imagen/indice.jpg)
+![uno] (imagen/indice.jpg)
